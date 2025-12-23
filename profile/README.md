@@ -119,13 +119,6 @@ magik.run is not just another hyperscaler - it's the foundation for:
 - Independence in critical infrastructure
 - Leadership in sovereign cloud technology
 
-### **Growth Path**
-1. **Phase 1**: Financial services and healthcare (high compliance requirements)
-2. **Phase 2**: Government and public sector
-3. **Phase 3**: SMEs and industry
-4. **Phase 4**: Regional expansion
-5. **Phase 5**: Global sovereign cloud platform for neutral countries
-
 ---
 
 ## Why Now?
