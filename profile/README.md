@@ -22,10 +22,10 @@ The world needs a compute platform that:
 # Screenshots
 
 ## Login
-![Login](assets/login.png)
+![Login](login.png)
 
 ## Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
