@@ -19,6 +19,16 @@ The world needs a compute platform that:
 
 ---
 
+# Screenshots
+
+## Login
+![Login](assets/login.png)
+
+## Dashboard
+![Dashboard](assets/dashboard.png)
+
+---
+
 ## Use Cases for Sovereignty
 
 ### **Financial Services**
